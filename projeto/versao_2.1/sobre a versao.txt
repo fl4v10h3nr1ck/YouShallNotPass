@@ -1,0 +1,7 @@
+
+
+********* este gerenciador funciona com o conector/j versao 5.x.x (disponivel na lib)
+
+********* adicionado opcoes de usuario DEV (super usuário).
+
+********* outras melhorias de desempenho e correções de bugs.
